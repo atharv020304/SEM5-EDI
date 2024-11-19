@@ -1,0 +1,2 @@
+directly pass extracted text whole to the nlp model insted of keywords. we can achieve better results by this.
+-atharv
